@@ -3,22 +3,22 @@ const PLACEHOLDERS = {
   HEROS: [
     // primaryHero
     {
-      heading: {value: 'All Mountain All Season'},
+      heading: {value: 'Dog shop show your fur baby love'},
       byline: {
-        value: 'The All New Hydrogen Snowboard Exclusively From Shopify',
+        value: 'All you could need for your ddog',
       },
       cta: {value: 'Shop Now →'},
       handle: 'freestyle',
       spread: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'Tracks in the snow leading to a person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.',
+          alt: 'Dogg Stuff',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://media1.popsugar-assets.com/files/thumbor/7caeJjHRtS0kYzz-KZEhzhEg-N4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/05/09/884/n/24155406/9d7bcb915cd48a0e2939f0.67997233_/i/Best-Summer-Dog-Products.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://media1.popsugar-assets.com/files/thumbor/7caeJjHRtS0kYzz-KZEhzhEg-N4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/05/09/884/n/24155406/9d7bcb915cd48a0e2939f0.67997233_/i/Best-Summer-Dog-Products.jpg',
             width: 2500,
             height: 3155,
           },
@@ -27,13 +27,13 @@ const PLACEHOLDERS = {
       spreadSecondary: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A snowboarder standing on a mountain top in choppy snow, shows off the back of his snowboard which reads Hydrogen in a cursive script.',
+          alt: 'Dog Supplies Sent fast and safe for your pet to use',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://www.rover.com/blog/wp-content/uploads/2018/07/image5-e1531348688178.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478499384',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://www.rover.com/blog/wp-content/uploads/2018/07/image5-e1531348688178.jpg',
             width: 2500,
             height: 3155,
           },
@@ -45,20 +45,20 @@ const PLACEHOLDERS = {
     },
     // secondaryHero
     {
-      heading: {value: 'The Winter 2022 Collection'},
+      heading: {value: 'The Dog Store'},
       byline: {value: 'Just Dropped'},
       cta: {value: 'Shop Now →'},
       handle: 'winter-2022',
       spread: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'Three young women in snowboarding attire embracing and laughing while snow falls around them',
+          alt: 'Dog love to have ffun',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160',
+            url: 'https://mobileimages.lowes.com/marketingimages/39783bda-919b-4528-b15d-8fa0a6d0f8a6/animal-and-pet-care-dog-supplies-banner-dp18-332854.jpg?im=Resize,width=702&fmt=webp',
           },
           id: 'gid://shopify/MediaImage/29259478302776',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160',
+            url: 'https://mobileimages.lowes.com/marketingimages/39783bda-919b-4528-b15d-8fa0a6d0f8a6/animal-and-pet-care-dog-supplies-banner-dp18-332854.jpg?im=Resize,width=702&fmt=webp',
             width: 5000,
             height: 2500,
           },
@@ -68,20 +68,20 @@ const PLACEHOLDERS = {
     },
     // tertiaryHero
     {
-      heading: {value: 'From the Slopes to the Chalet'},
+      heading: {value: 'From the us to your fur baby'},
       byline: null,
       cta: {value: 'Shop Now →'},
       handle: 'backcountry',
       spread: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A skier hikes up a mountain through the snow with skis over their shoulder.',
+          alt: 'A dog gotta keep themselves busy while you are at work',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306',
+            url: 'https://assets.orvis.com/is/image/orvisprd/20FJ0920FD_ALT?wid=1024&src=is($object$:1-1)',
           },
           id: 'gid://shopify/MediaImage/29259478368312',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306',
+            url: 'https://assets.orvis.com/is/image/orvisprd/20FJ0920FD_ALT?wid=1024&src=is($object$:1-1)',
             width: 2500,
             height: 2500,
           },
@@ -90,13 +90,13 @@ const PLACEHOLDERS = {
       spreadSecondary: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A snow covered lodge is illuminated by lights at night with a dark starry sky and mountain backdrop.',
+          alt: 'What are you gonna get for yoour dog',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306',
+            url: 'https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2020/05/28/USATODAY/usatsports/Reviewed.com-RvEW-24856-lead.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp',
           },
           id: 'gid://shopify/MediaImage/29259478401080',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306',
+            url: 'https://www.gannett-cdn.com/-mm-/675ba115506e09d3d7e32d07055fdcb503ebe995/c=0-2-1272-718/local/-/media/2020/05/28/USATODAY/usatsports/Reviewed.com-RvEW-24856-lead.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp',
             width: 2500,
             height: 2500,
           },
